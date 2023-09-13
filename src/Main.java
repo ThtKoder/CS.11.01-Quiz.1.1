@@ -14,7 +14,8 @@ public class Main {
         firstName = scanner.next();
 
         System.out.println("Please enter your Favourite Food followed by the return key:");
-        favouriteFood = scanner.next();
+        Scanner scannerFood = new Scanner(System.in);
+        favouriteFood = scannerFood.nextLine();
 
         System.out.println("\nFirst Name: " + firstName + "\n\n" + "Age " + age + "\n\n" + "Favourite Food: " + favouriteFood);
 
