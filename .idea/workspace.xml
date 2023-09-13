@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e8d04a44-8954-4fb7-b81f-f95729d44eea" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="e8d04a44-8954-4fb7-b81f-f95729d44eea" name="Changes" comment="I found this lab to be not too difficult, but I had to be mindful not to make careless mistakes.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
@@ -22,6 +21,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="sander &lt;sanderd2026@student.cis.edu.hk&gt;" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -67,6 +71,23 @@
       <option name="presentableId" value="Default" />
       <updated>1693361421950</updated>
     </task>
+    <task id="LOCAL-00001" summary="I found this lab to be not too difficult, but I had to be mindful not to make careless mistakes.">
+      <option name="closed" value="true" />
+      <created>1694568883678</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1694568883678</updated>
+    </task>
+    <task id="LOCAL-00002" summary="I found this lab to be not too difficult, but I had to be mindful not to make careless mistakes.">
+      <option name="closed" value="true" />
+      <created>1694568915519</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1694568915519</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -79,5 +100,12 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="I found this lab to be not too difficult, but I had to be mindful not to make careless mistakes." />
+    <option name="LAST_COMMIT_MESSAGE" value="I found this lab to be not too difficult, but I had to be mindful not to make careless mistakes." />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/CS_11_01_Quiz_1_1$Main.ic" NAME="Main Coverage Results" MODIFIED="1694568996817" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
 </project>
